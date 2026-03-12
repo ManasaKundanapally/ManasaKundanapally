@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Manasa 👋
 
-<!--
-**ManasaKundanapally/ManasaKundanapally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Data Analyst / AI Enthusiast  
+🐧 Currently learning Linux and Cloud  
+📊 Interested in Data Analysis and Computer Vision  
 
-Here are some ideas to get you started:
+## Skills
+Python | SQL | Linux | Machine Learning | Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Red Hat Linux
+- Computer Vision
+- Cloud Basics
+
+## Projects (Coming Soon)
+🚀 Smart CCTV Behaviour Detection  
+🚀 Data Analysis Projects  
+🚀 Linux Automation Scripts
+
+## Goals for 2026
+- Build 5 strong GitHub projects
+- Contribute regularly to GitHub
+- Improve AI and Data Analysis skills
