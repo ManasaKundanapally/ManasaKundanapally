@@ -1,23 +1,6 @@
 # Hi, I'm Manasa 👋
-
-💻 Aspiring Data Analyst / AI Enthusiast  
-🐧 Currently learning Linux and Cloud  
-📊 Interested in Data Analysis and Computer Vision  
-
-## Skills
-Python | SQL | Linux | Machine Learning | Data Analysis
-
-## Currently Learning
-- Red Hat Linux
-- Computer Vision
-- Cloud Basics
-
-## Projects (Coming Soon)
-🚀 Smart CCTV Behaviour Detection  
-🚀 Data Analysis Projects  
-🚀 Linux Automation Scripts
-
-## Goals for 2026
-- Build 5 strong GitHub projects
-- Contribute regularly to GitHub
-- Improve AI and Data Analysis skills
+🐍 Python | 🗄️ SQL | 🤖 Gen AI
+I'm Manasa Kundanapally — a recent grad who builds instead of just studies.
+Most of what I know came from shipping projects, not just coursework.
+Explore my repos to see how I think and what I build.
+Open to early-stage startup roles where I can own real work.
